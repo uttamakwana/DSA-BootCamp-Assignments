@@ -2,7 +2,8 @@
     "java.project.sourcePaths": [
         "02.First-Java",
         "01.Flow-Of-Program",
-        "03.Conditions-Loops"
+        "03.Conditions-Loops",
+        "04.Functions"
     ],
     "java.debug.settings.onBuildFailureProceed": true
 }
